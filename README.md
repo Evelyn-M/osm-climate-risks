@@ -1,5 +1,5 @@
 # osm-climate-risks
-OpenStreetMap for climate risk assessments
+OpenStreetMap for multi-faceted climate risk assessments
 
 ## Authors
-Evelyn Mühlhofer, Chahan M. Kropf and Elco E. Koks
+Evelyn Mühlhofer, Chahan M. Kropf, David N. Bresch and Elco E. Koks
